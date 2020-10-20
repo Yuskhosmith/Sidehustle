@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    padding: 10px;
+    margin: 10px;
+}
+nav ul li{
+    list-style: none;
+    text-decoration: none;
+    float: left;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border: black 2px solid;
+    border-radius: 15px;
+}
+p{
+    font-size: xx-large;
+    text-align: center;
+    padding: 30;
+    margin: 15% 30%;
+}
